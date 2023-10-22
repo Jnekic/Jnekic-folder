@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <h1>Naslov</h1>
+
+    <h2>Podnaslov</h2>
+
+    <p>Odlomak 1</p>
+
+    <p>Odlomak 2</p>
+    <figure>
+        <img src="https://i.ytimg.com/vi/F1DAsztKgdQ/sddefault.jpg" alt="slika" title="slika">
+        <figcaption>
+            <a href="https://i.ytimg.com/vi/F1DAsztKgdQ/sddefault.jpg" target="_blank">Bugatti
+            </a>
+        </figcaption>
+    </figure>
+
+    <figure>
+        <img src="Auto.png" alt="Opis slike">        
+        <figcaption> 
+            <a href="https://www.auto-biscan.hr/wp-content/uploads/2023/04/mg4-638149289808064078_1060_570-removebg-preview-1.png" target="_blank">Slika MG4 
+            </a>
+        </figcaption>
+    </figure>
+    
+
+</body>
+
+</html>
