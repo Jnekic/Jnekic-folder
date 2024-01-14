@@ -1,0 +1,106 @@
+header{
+    background-color: #262626;
+    max-width: 100%;
+}
+h2{
+    font-family: 'Fraunces', serif;
+}
+header h2{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Fraunces', serif;
+    color: #fff;
+    letter-spacing: 5px;
+}
+img{
+    max-width: 100%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    padding-right: 10px;
+    display: block;
+    float: right;
+}
+.lijevi{
+    margin-top: 10px;
+    float: left;
+    width: 25%;
+}
+.row a{
+    display: block;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px 0;
+}
+.row a:hover{
+    background-color: #e3eaa7;
+}
+.center{
+    text-align: center;
+}
+footer{
+    padding: 20px 0;
+    background-color: #262626;
+    max-width: 100%;
+    color: white;
+}
+footer p{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    letter-spacing: 5px;
+    padding-top: 20px;
+}
+.krug{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #262626;
+}
+.razmak{
+    padding: 20px 0;
+}
+.stil{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+body{
+    background-image: url("images/Sports.png");
+}
+.vrh{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 50px;
+}
+.linija{
+    display: inline;
+}
+.fa-futbol{
+    color: white;
+    display: inline;
+}
+.fa-running{
+    color: white;
+}
+.fa-award{
+    color: white;
+}
+@media (max-width: 768px){
+    .lijevi{
+        text-align: center;
+        float: none;
+    }
+    li{
+        
+        width: 100%;
+    }
+    
+}
